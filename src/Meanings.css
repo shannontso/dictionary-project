@@ -1,0 +1,10 @@
+p {
+  font-size: 16.5px;
+}
+.meanings {
+  margin: 0 0 40px;
+}
+li {
+  display: inline-block;
+  margin-right: 12.5px;
+}

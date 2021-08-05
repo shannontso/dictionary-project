@@ -1,0 +1,26 @@
+.results {
+  margin: 50px 100px 30px 100px;
+  justify-content: center;
+}
+.section1 {
+  margin-bottom: 25px;
+}
+.section1 h2 {
+  font-size: 34px;
+}
+.phoneticsAudio {
+  border: 1px solid #c2c2c2;
+  border-radius: 8px;
+  width: 10%;
+  background-color: rgb(228, 228, 228);
+  margin: 0 10px;
+}
+.phoneticsAudio a {
+  color: rgb(100, 100, 100);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 17px;
+}
+.phoneticsAudio :hover {
+  opacity: 0.3;
+}

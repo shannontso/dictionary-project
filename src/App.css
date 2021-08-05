@@ -1,8 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost&display=swap");
+* {
+  font-family: "Jost", sans-serif;
+}
 .App {
-  text-align: center;
+  margin: 50px 150px;
+  border: 1px solid rgb(219, 204, 181);
+  border-radius: 20px;
 }
 header {
-  margin: 50px 0;
+  margin: 100px 0 50px 0;
+  text-align: center;
 }
 
 footer {
