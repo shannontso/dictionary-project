@@ -4,8 +4,7 @@ export default function Phonetics(props) {
   return (
     <div>
       <p>
-        {props.phonetics.text}
-        <span> </span>
+        /{props.phonetics.text}/<span> </span>
         <button className="phoneticsAudio">
           <a href={props.phonetics.audio} target="_blank" rel="noreferrer">
             Listen
