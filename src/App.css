@@ -16,3 +16,9 @@ footer {
   margin: 30px 0;
   text-align: center;
 }
+footer a {
+  color: black;
+}
+footer a:hover {
+  color: rgb(209, 113, 209);
+}

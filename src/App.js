@@ -13,7 +13,16 @@ export default function App() {
         </div>
       </div>
       <footer>
-        <small>Coded by Shannon</small>
+        <small>
+          Coded by{" "}
+          <a
+            href="https://github.com/shannontso"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Shannon Tan
+          </a>
+        </small>
       </footer>
     </div>
   );
