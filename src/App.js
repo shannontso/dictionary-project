@@ -14,13 +14,22 @@ export default function App() {
       </div>
       <footer>
         <small>
-          Coded by{" "}
+          {" "}
+          This project was coded by{" "}
           <a
             href="https://github.com/shannontso"
             target="_blank"
             rel="noreferrer"
           >
             Shannon Tan
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://github.com/shannontso/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open-sourced on Github
           </a>
         </small>
       </footer>
