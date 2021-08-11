@@ -2,7 +2,6 @@ import React from "react";
 import Synonyms from "./Synonyms";
 import Examples from "./Examples";
 import "./Meanings.css";
-import "./Synonyms.css";
 
 export default function Meanings(props) {
   return (
